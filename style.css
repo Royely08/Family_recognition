@@ -1,0 +1,26 @@
+body{
+    background: rgb(241, 194, 235);
+    color: rgb(43, 136, 243);
+    font-family: Georgia;
+    font-size: bold;
+}
+
+.heading{
+    width: 80%;
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#head{
+    color: rgb(233, 148, 51);
+}
+
+.name_of_objects,#result_object_name,#result_object_accuracy{
+    color: antiquewhite;
+}
+
+#camera,#result{
+    border: 2px dotted black;
+    width: 350px;
+    height: 300px;
+}
